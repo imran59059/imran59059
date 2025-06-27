@@ -16,21 +16,32 @@ I’m a passionate and results-driven Full Stack Developer with over 4 years of 
 💡 Known for writing clean, scalable code and working effectively in agile teams
 
 🛠️ Tech Stack
+
 Frontend:
 
-
-
+React.js
+Next.js
+Redux
+RTK Query
+JavaScript (ES6+)
+TypeScript
+HTML5
+CSS3
+Tailwind CSS
 
 Backend:
 
-
-
-Database & APIs:
-
-
-Tools & DevOps:
-
-
+Node.js
+Express.js
+PHP
+RESTful APIs
+Tools & Platforms:
+Git
+Webpack
+Vite
+npm
+Jest
+React Testing Library
 
 📈 GitHub Stats
 
