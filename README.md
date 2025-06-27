@@ -52,7 +52,7 @@ React Testing Library
 
 📧 imranisactive@gmail.com
 
-Linkedin Profile: linkedin.com/in/imranali59059
+[linkedin](https://www.linkedin.com/in/imranali59059/)
 
 🏡 New Town, Kolkata
 
