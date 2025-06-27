@@ -51,7 +51,8 @@ React Testing Library
 🌐 Portfolio Website - imranali59059.xyz
 
 📧 imranisactive@gmail.com
-    Linkedin Profile: linkedin.com/in/imranali59059
+
+Linkedin Profile: linkedin.com/in/imranali59059
 
 🏡 New Town, Kolkata
 
