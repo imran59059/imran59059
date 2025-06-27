@@ -44,12 +44,14 @@ Jest
 React Testing Library
 
 
-📈 GitHub Stats
 
-📫 Connect With Me
-🌐 Portfolio Website
+📫 Connect With Me:
 
-📧 imranali59059@gmail.com
+
+🌐 Portfolio Website - imranali59059.xyz
+
+📧 imranisactive@gmail.com
+    Linkedin Profile: linkedin.com/in/imranali59059
 
 🏡 New Town, Kolkata
 
