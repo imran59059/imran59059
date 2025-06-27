@@ -41,6 +41,4 @@ Tools & DevOps:
 
 🏡 New Town, Kolkata
 
-📱 +91 7059746613
-
 Feel free to explore my repositories, open an issue, or connect with me. I love collaborating and sharing knowledge with the community.
